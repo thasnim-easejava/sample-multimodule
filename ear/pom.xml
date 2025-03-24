@@ -16,7 +16,7 @@
     <version>1.0-SNAPSHOT</version>
     <!-- tag::packagingType[] -->
     <packaging>ear</packaging>
-    <!-- end::packagingType[]  -->
+    <!-- end::packagingType[]   -->
     <!-- end::packaging[] -->
 
     <properties>
