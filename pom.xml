@@ -17,7 +17,7 @@
     <!-- end::packagingType[] -->
     <!-- end::packaging[] -->
 
-    <!-- tag::modules[] -->
+    <!-- tag::modules[]  -->
     <modules>
         <module>jar</module>
         <module>war</module>
