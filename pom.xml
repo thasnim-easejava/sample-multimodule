@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- tag::packaging[]  -->
-    <!-- tag::groupId[] -->
+    <!-- tag::groupId[]  -->
     <groupId>io.openliberty.guides</groupId>
     <!-- end::groupId[] -->
     <artifactId>guide-maven-multimodules</artifactId>
